@@ -1,0 +1,1 @@
+# just a simple script to check and validate emails in bulk
